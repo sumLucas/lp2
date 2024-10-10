@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E9{
+public class E10{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
@@ -23,8 +23,6 @@ public class E9{
 
         System.out.println("A sua media semestral é: " + mediaFinal);
 
-        
-        
-
+        scanner.close();
     }
 }
